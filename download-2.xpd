@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=ARK4 Installer
+Size=2100
+Code=CMFileManager-PSP
+FName=EBOOT.PBP
+AName=data.zip
+
+[File]
+C=https://github.com/EAXposed/PSP/raw/main/EBOOT.PBP
+A=https://github.com/EAXposed/PSP/raw/main/data.zip
